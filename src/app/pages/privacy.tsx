@@ -108,7 +108,7 @@ const PrivacyPolicy = () => {
                         <Typography variant="body1" paragraph>
                             Brick Breaker uses IronSource Ads to serve advertisements. IronSource Ads may
                             collect certain information to display relevant ads. Please refer to
-                            IronSource's privacy policy for more information.
+                            IronSource&#39;s privacy policy for more information.
                         </Typography>
                         <Typography variant="body1" paragraph>
                             The information collected by IronSource Ads is used solely for ad-serving
